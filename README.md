@@ -61,18 +61,20 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 - [Appoly](https://www.appoly.co.uk)
 - [OP.GG](https://op.gg)
 
-## Contributing
+## Para guiarse con el proyecto
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+Rutas: Se encuentran en el web.php de la carpeta de routes
 
-## Code of Conduct
+CSS: Se encuentra en el public en la carpeta de css
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+Parte de JS y Vue: Se encuentra en resources en la carpeta de js y la parte de Vue en components
 
-## Security Vulnerabilities
+Views: Se encuentran en resources en la carpeta de views
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+Parte de Sass: Se encuentran en resources en la carpeta de sass
 
-## License
+Modelos: Se encuentran en la carpeta de app(CategoriaReceta, Perfil, Receta, User)
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+Controllers: Se encuentran en la carpeta de app, exactamente en la carpeta de Controllers
+
+Policies: Se encuentran en la carpeta app dentro de Policies
